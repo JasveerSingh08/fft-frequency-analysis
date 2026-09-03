@@ -1,5 +1,5 @@
 # fft-frequency-analysis
-Frequency domaon analysis using the Cooley-Tukey FFT algorithm in C++
+Frequency domain analysis using the Cooley-Tukey FFT algorithm in C++
 # FFT Frequency Analysis in C++
 
 A standard-library-only C++ implementation of the **Fast Fourier Transform (FFT)** using the recursive **Cooley-Tukey algorithm**.
